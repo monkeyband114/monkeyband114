@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded systems web APIS and web development 
 - 🌱 I’m currently learning flutter, react.js
 - 💞️ I’m looking to collaborate on iot solutions 
-- 📫 How to reach me @ gadocer54@gmail.com
+- 📫 How to reach me @ hudskings@gmail.com
 
 <!---
 monkeyband114/monkeyband114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
